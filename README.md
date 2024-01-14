@@ -1,5 +1,8 @@
 # AngularTourOfHeroes
 
+![Screenshot from 2024-01-14 20-05-02](https://github.com/Yessenali-Yerkebulan/tour-of-heroes/assets/113698340/14cad770-6d90-4ffe-b98b-02a81155417f)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
